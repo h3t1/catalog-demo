@@ -1,0 +1,13 @@
+* {
+    box-sizing: border-box;
+    font-family: Lato, arial, "sans-serif";
+}
+html {
+    line-height: 1.15;
+    text-size-adjust: 100%;
+}
+
+body {
+    margin: 0;
+}
+
